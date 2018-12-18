@@ -63,7 +63,6 @@ p {
 .paragraph p {
     background-color: chocolate;
     width: 100%;
-    float: left;
     padding: 20px;
     font-family: 'Patrick Hand', cursive;
     font-size: 20px;
@@ -71,16 +70,14 @@ p {
 }
 .proven p {
     background-color: chocolate;
-    float: left;
-    width: 50%;
+    width: 100%;
     padding: 20px;
     font-family: 'Patrick Hand', cursive;
     font-size: 20px;
 }
 .proven1 p {
     background-color: chocolate;
-    float: left;
-    width: 50%;
+    width: 100%;
     padding: 10px;
     font-family: 'Patrick Hand', cursive;
     font-size: 20px;
@@ -133,6 +130,13 @@ p {
         font-size: 20px;
     
     }
+    .proven1 p {
+    background-color: chocolate;
+    width: 100%;
+    padding: 10px;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+}
     .page-footer li {
         display: inline-block;
         list-style: none;
