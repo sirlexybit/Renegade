@@ -180,6 +180,15 @@ div.desc {
     padding: 10px;
     text-align: center;
 }
+#encapsulate {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#encapsulate img{
+    width: 90%;
+    margin: 5px;
+}
 .page .enclose {
     background-color: #7180d2;
     
@@ -420,6 +429,15 @@ div.page {
     box-sizing: border-box;
 
 
+}
+#encapsulate {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#encapsulate img{
+    width: 90%;
+    margin: 10px;
 }
 .page-footer {
     padding-top: 20px;
